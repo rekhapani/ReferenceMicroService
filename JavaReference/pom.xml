@@ -53,6 +53,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- DTO -->
+		<dependency>
+		<groupId>com.reference.commitment</groupId>
+			<artifactId>ReferenceDTO</artifactId>
+			<version>0.0.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
